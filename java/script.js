@@ -27,6 +27,6 @@ $(function(){
 		$(".festivales").css(tamano_p);
 	};
 
-	$('#mask').cycle({fx: 'turnDown', speed: 500, timeout:  7000});
+	$('#mask').cycle({fx: 'turnDown', speed: 500, timeout:  7000, pager: '#menu'});
 
 });
