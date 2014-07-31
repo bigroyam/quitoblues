@@ -338,7 +338,7 @@ section .item .participantes figure figcaption a:hover{
 }
 
 #banner {
-	background: url(../images/bnn_bg.jpg) no-repeat;
+	background: #000 url(../images/bnn_bg.jpg) no-repeat;
 	background-size: cover;
 	border-bottom: 0.4em solid #FDB515;
 	box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.6);
@@ -388,7 +388,7 @@ section .item .participantes figure figcaption a:hover{
 }
 
 #slider {
-	background: #CCC;
+	background: #000;
 	border-bottom: 0.4em solid #FDB515;
 	box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.6);
 	display: none;
